@@ -1,10 +1,10 @@
 # AGRICULTURAL RESEARCH ANALYSIS 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Problem Statement](#Problem_Statement)
-- [Data Collection](#Data_Collection)
+- [Problem Statement](#Problem-Statement)
+- [Data Collection](#Data-Collection)
 - [Preprocessing](#Preprocessing)
-- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Insights](#Insights)
 - [Dashboard](#Dashboard)
 - [Recommendation](#Recommendation)
