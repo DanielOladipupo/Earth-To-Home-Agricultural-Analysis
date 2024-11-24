@@ -24,9 +24,11 @@ This analysis involves estimating gross margins at each stage of the value chain
 
 ### Data Collection
 The data for this analysis was sourced from the  South Africa Agricultural statistics platforms, specifically from the [Department of Agriculture, Land Reform & Rural Development](https://wwww.dalrrd.gov.za). The datasets include:
-- Farm Distribution Data: This dataset provides information on the distribution of farms across South Africa's provinces.
+- Farm Distribution by Province Data: This dataset provides information on the distribution of farms across South Africa's provinces.
 - Crop Production Data: Focused on crop yields and production within the Gauteng province.
 - Animal Production Data: Contains detailed records of animal produce across the regions.
 - Value Chain Data: Highlights the value chain processes for various agricultural produce.
 These datasets formed the foundation for analyzing agricultural patterns and trends across the country.
+
+### Preprocessing 
 
