@@ -10,7 +10,7 @@
 - [Recommendation](#Recommendation)
   
 ### Introduction 
-This project aims to analyze and enhance the understanding of the unit economics within the agriculture and grocery sectors in South Africa. By examining the value chain for produce, the study seeks to uncover critical insights into the gross margins at various levels of the supply chain, including farmers, wholesalers, distributors or agents, and grocery retailers.
+This research project aims to analyze and enhance the understanding of the unit economics within the agriculture and grocery sectors in South Africa. By examining the value chain for produce, the study seeks to uncover critical insights into the gross margins at various levels of the supply chain, including farmers, wholesalers, distributors or agents, and grocery retailers.
 
 The research also focuses on the geographical distribution of agricultural activities across South Africa, identifying key provinces with significant farming activities. A particular emphasis is placed on Gauteng Province, investigating the number of operational farms and their major types of produce.
 
@@ -23,4 +23,10 @@ This analysis involves estimating gross margins at each stage of the value chain
 - Examine farm distribution in Gauteng province, focusing on the number of farms and their primary produce categories, including crop and animal production metrics.
 
 ### Data Collection
-The data was collected from available datasets from South Africa Agricultural statistics platforms. [Department of Agriculture, Land Reform & Rural Development](https://wwww.dalrrd.gov.za)
+The data for this analysis was sourced from the  South Africa Agricultural statistics platforms, specifically from the [Department of Agriculture, Land Reform & Rural Development](https://wwww.dalrrd.gov.za). The datasets include:
+- Farm Distribution Data: This dataset provides information on the distribution of farms across South Africa's provinces.
+- Crop Production Data: Focused on crop yields and production within the Gauteng province.
+- Animal Production Data: Contains detailed records of animal produce across the regions.
+- Value Chain Data: Highlights the value chain processes for various agricultural produce.
+These datasets formed the foundation for analyzing agricultural patterns and trends across the country.
+
