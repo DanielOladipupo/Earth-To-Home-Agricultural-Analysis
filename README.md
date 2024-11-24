@@ -23,4 +23,4 @@ This analysis involves estimating gross margins at each stage of the value chain
 - Examine farm distribution in Gauteng province, focusing on the number of farms and their primary produce categories, including crop and animal production metrics.
 
 ### Data Collection
-Used publicly available datasets from South Africa Agricultural statistics platforms 
+Used publicly available datasets from South Africa Agricultural statistics platforms.[Department of Agriculture, Land Reform & Rural Development](https://wwww.dalrrd.gov.za)
