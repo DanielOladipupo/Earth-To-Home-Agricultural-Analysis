@@ -31,6 +31,9 @@ The data for this analysis was sourced from the  South Africa Agricultural stati
 - Value Chain Data: Highlights the value chain processes for various agricultural produce.
 These datasets formed the foundation for analyzing agricultural patterns and trends across the country.
 
+### Tool
+The data cleaning, analysis and visualixation was done using Excel
+
 ### Preprocessing 
 After downloading and opening the data in Excel, several steps were taken to ensure it was ready for analysis, therefore, the following actions were carried out:
 - Duplicate check: No duplicate rows were found in the dataset.
