@@ -33,4 +33,8 @@ These datasets formed the foundation for analyzing agricultural patterns and tre
 ### Preprocessing 
 After downloading and opening the data in Excel, several steps were taken to ensure it was ready for analysis, therefore, the following actions were carried out:
 - Duplicate check: No duplicate rows were found in the dataset.
+- Data type check: The columns were reviewed to ensure they were assigned the appropriate data types. Where necessary, columns were converted to text or numbers.
+- Missing values: Missing values where checked across the rows in the data set but none were found. The dataset was free from null values which makes it accurate to proceed for the  analysis.
+- Categorical variables: All categorical variables were inspected for spelling errors or unexpected values. No issues were found.
+- Outliers: No outliers were detected in the dataset.
 
