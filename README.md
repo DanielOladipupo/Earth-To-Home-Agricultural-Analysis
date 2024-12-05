@@ -32,7 +32,7 @@ The data for this analysis was sourced from the  South Africa Agricultural stati
 These datasets formed the foundation for analyzing agricultural patterns and trends across the country.
 
 ### Tool
-The data cleaning, analysis and visualixation was done using Excel
+The data cleaning, analysis and visualization was done using Excel
 
 ### Preprocessing 
 After downloading and opening the data in Excel, several steps were taken to ensure it was ready for analysis, therefore, the following actions were carried out:
