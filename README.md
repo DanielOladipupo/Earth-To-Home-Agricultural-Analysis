@@ -10,7 +10,7 @@
 - [Recommendation](#Recommendation)
   
 ### Introduction 
-This research project aims to analyze and enhance the understanding of the unit economics within the agriculture and grocery sectors in South Africa. By examining the value chain for produce, the study seeks to uncover critical insights into the gross margins at various levels of the supply chain, including farmers, wholesalers, distributors or agents, and grocery retailers.
+This research project aims to analyze and enhance the understanding of the unit economics within the agriculture and grocery sectors in gauteng province, South Africa. By examining the value chain for produce, the study seeks to uncover critical insights into the gross margins at various levels of the supply chain, including farmers, wholesalers, distributors or agents, and grocery retailers.
 
 The research also focuses on the geographical distribution of agricultural activities across South Africa, identifying key provinces with significant farming activities. A particular emphasis is placed on Gauteng Province, investigating the number of operational farms and their major types of produce.
 
@@ -37,4 +37,15 @@ After downloading and opening the data in Excel, several steps were taken to ens
 - Missing values: Missing values where checked across the rows in the data set but none were found. The dataset was free from null values which makes it accurate to proceed for the  analysis.
 - Categorical variables: All categorical variables were inspected for spelling errors or unexpected values. No issues were found.
 - Outliers: No outliers were detected in the dataset.
+
+### Exploratory Data Analysis
+I analyzed the dataset to understand its structure, identify key patterns, and uncover valuable insights. It was important to determine the total distribution of farms across provinces in South Africa and evaluating the gross margin for various distribution channels. Additionally, I discovered two key agricultural contexts in Gauteng province: crop production and animal production.
+
+
+
+
+
+
+
+
 
