@@ -3,6 +3,7 @@
 - [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
 - [Data Collection](#Data-Collection)
+- [Tool](Tool)
 - [Preprocessing](#Preprocessing)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Insights](#Insights)
