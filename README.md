@@ -31,4 +31,6 @@ The data for this analysis was sourced from the  South Africa Agricultural stati
 These datasets formed the foundation for analyzing agricultural patterns and trends across the country.
 
 ### Preprocessing 
+After downloading and opening the data in Excel, several steps were taken to ensure it was ready for analysis, therefore, the following actions were carried out:
+- Duplicate check: No duplicate rows were found in the dataset.
 
