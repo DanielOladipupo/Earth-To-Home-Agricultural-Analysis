@@ -53,10 +53,9 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
    South Africa's provinces. Provinces with larger land areas (e.g., Free State, Northern Cape, and Western Cape) tend to have higher farm distributions. This indicates a strong 
    correlation between land availability and farm numbers. Provinces like Gauteng, with high urbanization, have the lowest farm counts, while rural provinces like Free State dominate, 
    showing an inverse relationship between urbanization and farm distribution.
-   
 
-   
-![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
+
+   ![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
  
 
 
