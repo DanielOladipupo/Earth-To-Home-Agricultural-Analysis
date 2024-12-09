@@ -45,6 +45,19 @@ After downloading and opening the data in Excel, several steps were taken to ens
 ### Exploratory Data Analysis
 I analyzed the dataset to understand its structure, identify key patterns, and uncover valuable insights. It was important to determine the total distribution of farms across provinces in South Africa and evaluating the gross margin for various distribution channels. Additionally, I discovered two key agricultural contexts in Gauteng province: crop production and animal production.
 
+### Insights
+
+1. Distribution of Farms According to Provinces: The Free State has the highest number of farms, with 7,951 farms, indicating it is a major agricultural hub.
+   Gauteng on the other hand has the lowest number of farms at 2,291, likely due to its urbanized nature and smaller land area dedicated to agriculture.
+   
+![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
+ 
+
+
+
+
+
+
 
 
 
