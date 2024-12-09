@@ -49,6 +49,12 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
 1. Distribution of Farms According to Provinces: The Free State has the highest number of farms, with 7,951 farms, indicating it is a major agricultural hub.
    Gauteng on the other hand has the lowest number of farms at 2,291, likely due to its urbanized nature and smaller land area dedicated to agriculture.
+   There is a noticeable disparity between provinces, with the Free State having over three times the farms compared to Gauteng. This highlights the diverse agricultural focus across   
+   South Africa's provinces. Provinces with larger land areas (e.g., Free State, Northern Cape, and Western Cape) tend to have higher farm distributions. This indicates a strong 
+   correlation between land availability and farm numbers. Provinces like Gauteng, with high urbanization, have the lowest farm counts, while rural provinces like Free State dominate, 
+   showing an inverse relationship between urbanization and farm distribution.
+   
+
    
 ![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
  
