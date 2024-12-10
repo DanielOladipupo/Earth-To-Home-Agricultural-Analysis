@@ -51,7 +51,7 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
    Gauteng on the other hand has the lowest number of farms at 2,291, likely due to its urbanized nature and smaller land area dedicated to agriculture.
    There is a noticeable disparity between provinces, with the Free State having over three times the farms compared to Gauteng.
    This highlights the diverse agricultural focus across South Africa's provinces.
-   Provinces with larger land areas (e.g., Free State, Northern Cape, and Western Cape) tend to have higher farm distributions.
+   Provinces with larger land areas (e.g, Free State, Northern Cape, and Western Cape) tend to have higher farm distributions.
    This indicates a strong correlation between land availability and farm numbers. Provinces like Gauteng, with high urbanization, have the lowest farm counts, while rural provinces like 
    Free State dominate, showing an inverse relationship between urbanization and farm distribution.
 
@@ -60,9 +60,8 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
 2. Gross Margin for Distribution Channels: The chart illustrates the percentage contribution of gross margin among four different stakeholders in the distribution channel:
    Farmers, Wholesalers, Distributors, and Retailers. Farmers hold the largest share of the gross margin at 30%, which means that they capture the highest proportion of revenue within 
-   the distribution chain.   
-   This might reflect the value of primary production in the supply chain. Both Retailers and Distributors contribute equally at 25% of the gross margin.
-   This indicates a balanced distribution of profits between these two intermediary roles. Wholesalers account for only 20%, the smallest gross margin share. This might indicate that 
+   the distribution chain. This might reflect the value of primary production in the supply chain. Both Retailers and Distributors contribute equally at 25% of the gross margin.
+   As such, it indicates a balanced distribution of profits between these two intermediary roles. Wholesalers account for only 20%, the smallest gross margin share. This might indicate that 
    wholesalers operate with narrower profit margins or focus on high-volume sales rather than high profit per unit.
 
    ![image](https://github.com/user-attachments/assets/044d7f75-e344-444f-a2c7-f52c93b0aff0)
