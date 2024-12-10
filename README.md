@@ -56,6 +56,12 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
 
    ![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
+
+2. Gross Margin for Distribution Channels: The chart illustrates the percentage contribution of gross margin among four different stakeholders in the distribution channel: Farmers,   
+   Wholesalers, Distributors, and Retailers. 
+
+   ![image](https://github.com/user-attachments/assets/044d7f75-e344-444f-a2c7-f52c93b0aff0)
+
  
 
 
