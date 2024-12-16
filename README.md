@@ -57,13 +57,20 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
    ![image](https://github.com/user-attachments/assets/e119ec82-960a-4bd4-828e-5077ac27dd2b)
 
-3. **Gross Margin for Distribution Channels:** The chart illustrates the percentage contribution of gross margin among four different stakeholders in the distribution channel:
+2. **Gross Margin for Distribution Channels:** The chart illustrates the percentage contribution of gross margin among four different stakeholders in the distribution channel:
    Farmers, Wholesalers, Distributors, and Retailers. Farmers hold the largest share of the gross margin at 30%, which means that they capture the highest proportion of revenue within 
    the distribution chain. This might reflect the value of primary production in the supply chain. Both Retailers and Distributors contribute equally at 25% of the gross margin.
-   As such, it indicates a balanced distribution of profits between these two intermediary roles. Wholesalers account for only 20%, the smallest gross margin share. This might indicate that 
-   wholesalers operate with narrower profit margins or focus on high-volume sales rather than high profit per unit.
+   As such, it indicates a balanced distribution of profits between these two intermediary roles. Wholesalers account for only 20%, the smallest gross margin share. This might indicate 
+   that wholesalers operate with narrower profit margins or focus on high-volume sales rather than high profit per unit.
 
    ![image](https://github.com/user-attachments/assets/044d7f75-e344-444f-a2c7-f52c93b0aff0)
+
+3.  **Crop Production:** Grain/Cereal is the highest produced crop with a significant volume of 425,857 units. This highlights its importance in Gauteng's agricultutal sector,
+   likely driven by its role as a staple food and input for other agricultural processes. Maize follows closely as the second-largest crop with 416,719 units, just slightly behind Grain/    Cereal. This indicates a focus on maize, which is a critical crop for food security, animal feed, and industrial purposes. The production volumes drop substantially for Oil Seed     26,609 units, Soya Beans 22,501 units, Cabbage 10,901 units, and Vegetables 9,494 units which is the lowest crop production. These crops may cater to specific markets, smaller demand, or specialized agricultural practices.
+
+    ![image](https://github.com/user-attachments/assets/dd149e04-72bb-45fb-bf83-b44f96d8746f)
+
+   
 
  
 
