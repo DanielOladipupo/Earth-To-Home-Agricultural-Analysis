@@ -75,9 +75,14 @@ Pig production is the second-largest with 511,688 units, showing its importance 
 
     ![image](https://github.com/user-attachments/assets/a27bc83d-6657-4f2d-91a9-1e3243f6e163)
 
-### Dashboard 
+### Dashboard
 
-   
+![Screenshot 2024-12-16 133334](https://github.com/user-attachments/assets/2aac25a9-cb25-4f49-9cf9-a586802f5529)
+
+  
+ 
+
+     
 
   
 
