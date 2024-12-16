@@ -70,6 +70,17 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
     ![image](https://github.com/user-attachments/assets/dd149e04-72bb-45fb-bf83-b44f96d8746f)
 
+4.  **Animal Production:** The bar chart shows the top 10 animal production outputs in Gauteng, measured by quantity. Cattle has the highest production with 677,769 units, making it the dominant livestock category in Gauteng. This indicates the importance of cattle farming for meat, dairy, or other economic purposes, also indicates a focus on large-scale livestock farming for food products like beef and pork.
+Pig production is the second-largest with 511,688 units, showing its importance as a key source of meat production in the region. Cattle and Pig production dominate the animal production sector. The Chicken Layers 791 units, Milk and Cream 580 units, Bull 503 units, Springbok 450 units, and Goat 327 units shows the lower small scale livestock production. It is clearly seen that goat is the least with 327 units. These are likely serving small markets or being region-specific livestock.
+
+    ![image](https://github.com/user-attachments/assets/a27bc83d-6657-4f2d-91a9-1e3243f6e163)
+
+### Dashboard 
+
+   
+
+  
+
    
 
  
