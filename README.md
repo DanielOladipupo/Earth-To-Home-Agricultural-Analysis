@@ -48,7 +48,7 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 ### Insights
 
 1. **Distribution of Farms According to Provinces:** The Free State has the highest number of farms, with 7,951 farms, indicating it is a major agricultural hub. Gauteng on the other 
-   hand has the lowest number of farms at 2,291, likely due to its urbanized nature and smaller land area dedicated to agriculture. There is a noticeable disparity between provinces, 
+   hand has the lowest number of farms at 2,291, likely due to its urbanized nature and smaller land area dedicated to agriculture. There was a noticeable disparity between provinces, 
    with the Free State having over three times the farms compared to Gauteng. This highlights the diverse agricultural focus across South Africa's provinces. Provinces with larger land 
    areas (e.g, Free State, Northern Cape, and Western Cape) tend to have higher farm distributions.
    This indicates a strong correlation between land availability and farm numbers. Provinces like Gauteng, with high urbanization, have the lowest farm counts, while rural provinces like 
@@ -65,13 +65,13 @@ I analyzed the dataset to understand its structure, identify key patterns, and u
 
    ![image](https://github.com/user-attachments/assets/044d7f75-e344-444f-a2c7-f52c93b0aff0)
 
-3.  **Crop Production:** Grain/Cereal is the highest produced crop with a significant volume of 425,857 units. This highlights its importance in Gauteng's agricultutal sector,
-   likely driven by its role as a staple food and input for other agricultural processes. Maize follows closely as the second-largest crop with 416,719 units, just slightly behind Grain/    Cereal. This indicates a focus on maize, which is a critical crop for food security, animal feed, and industrial purposes. The production volumes drop substantially for Oil Seed     26,609 units, Soya Beans 22,501 units, Cabbage 10,901 units, and Vegetables 9,494 units which is the lowest crop production. These crops may cater to specific markets, smaller demand, or specialized agricultural practices.
+3.  **Crop Production:** Grain/Cereal had the highest produced crop with a significant volume of 425,857 units. This highlights its importance in Gauteng's agricultutal sector,
+   likely driven by its role as a staple food and input for other agricultural processes. Maize follows closely as the second-largest crop with 416,719 units, just slightly behind Grain/    Cereal. This indicates a focus on maize, which is a critical crop for food security, animal feed, and industrial purposes. The production volumes drop substantially for Oil Seed     26,609 units, Soya Beans 22,501 units, Cabbage 10,901 units, and Vegetables 9,494 units which shows the lowest crop production. These crops may cater to specific markets, smaller demand, or specialized agricultural practices.
 
     ![image](https://github.com/user-attachments/assets/dd149e04-72bb-45fb-bf83-b44f96d8746f)
 
 4.  **Animal Production:** The bar chart shows the top 10 animal production outputs in Gauteng, measured by quantity. Cattle has the highest production with 677,769 units, making it the dominant livestock category in Gauteng. This indicates the importance of cattle farming for meat, dairy, or other economic purposes, also indicates a focus on large-scale livestock farming for food products like beef and pork.
-Pig production is the second-largest with 511,688 units, showing its importance as a key source of meat production in the region. Cattle and Pig production dominate the animal production sector. The Chicken Layers 791 units, Milk and Cream 580 units, Bull 503 units, Springbok 450 units, and Goat 327 units shows the lower small scale livestock production. It is clearly seen that goat is the least with 327 units. These are likely serving small markets or being region-specific livestock.
+Pig production was the second-largest with 511,688 units, showing its importance as a key source of meat production in the region. Cattle and Pig production dominate the animal production sector. The Chicken Layers 791 units, Milk and Cream 580 units, Bull 503 units, Springbok 450 units, and Goat 327 units shows the lower small scale livestock production. It was clearly seen that goat had the least with 327 units. These are likely serving small markets or being region-specific livestock.
 
     ![image](https://github.com/user-attachments/assets/a27bc83d-6657-4f2d-91a9-1e3243f6e163)
 
